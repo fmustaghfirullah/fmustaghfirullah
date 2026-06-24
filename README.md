@@ -21,10 +21,6 @@ Saya adalah mahasiswa Teknik Informatika tingkat akhir di Universitas Muhammadiy
 * **Sertifikasi:** Junior Cybersecurity Analyst bersertifikat, beserta berbagai sertifikasi Network Defense dan Endpoint Security dari Cisco serta ISC2.
 * **Magang:** Pernah magang di Diskominfo Kabupaten Madiun dengan fokus pada peningkatan keamanan endpoint menggunakan *open-source tool* Velociraptor.
 
-### 📫 Hubungi Saya
-* **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username) _silakan ubah dengan tautan asli Anda_
-* **Email:** [email@example.com](mailto:email@example.com) _silakan ubah dengan email asli Anda_
-
 ---
 ⚡ *Fun fact: Saya suka menjelajahi kerentanan sistem keamanan web dan mengoptimalkan model AI di waktu luang.*
 
