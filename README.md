@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Halo, saya Faisal Mustaghfirullah! 👋
+Halo, saya Faisal Mustaghfirullah! 👋
 
 Saya adalah mahasiswa Teknik Informatika tingkat akhir di Universitas Muhammadiyah Ponorogo yang berdomisili di Madiun. Saya memiliki minat besar dan pengalaman praktis di bidang Cybersecurity, Artificial Intelligence, serta Cloud Infrastructure.
 
@@ -37,8 +37,5 @@ Saya adalah mahasiswa Teknik Informatika tingkat akhir di Universitas Muhammadiy
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=fmustaghfirullah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
